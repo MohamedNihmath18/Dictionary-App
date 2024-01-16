@@ -1,3 +1,4 @@
+![Screenshot (34)](https://github.com/MohamedNihmath18/Dictionary-App/assets/106542888/36e26f2b-88b5-4375-97e1-4d4769302959)
  
 
 <h2 align="left">About</h2>
